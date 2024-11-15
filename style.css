@@ -31,6 +31,7 @@ body {
 }
 
 .search-container {
+    margin-top: 1em;
     display: grid;
     grid-template-columns: 9fr 3fr;
     gap: 1.2em;
